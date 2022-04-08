@@ -3,7 +3,7 @@ import React, { createContext, useReducer, useState } from "react";
 
 export const productsContext = createContext();
 
-const API = "http://localhost:8000/products";
+const API = "https://shop-102.herokuapp.com/products";
 
 const INIT_STATE = {
   products: [],
