@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0px;
+  flex-wrap: wrap;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif, Georgia, Times, "Times New Roman";
+  /* padding: 0 10px; */
+}

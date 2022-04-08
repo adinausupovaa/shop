@@ -1,0 +1,17 @@
+.reg {
+  display: flex;
+  justify-content: center;
+
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.pass {
+  width: 400px;
+  height: 100px;
+}
+
+button {
+  width: 400px;
+  margin-bottom: 100px;
+}

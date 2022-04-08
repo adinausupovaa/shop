@@ -1,0 +1,9 @@
+.container_us {
+  max-width: 1150px;
+  margin: 0 auto;
+}
+
+section {
+  font-weight: 500;
+  font-size: 15px;
+}

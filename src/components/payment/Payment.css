@@ -1,0 +1,20 @@
+.delivery {
+  background-color: black;
+  color: white;
+  text-align: center;
+  align-items: center;
+  font-size: large;
+  font-weight: 500;
+  height: 35px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
